@@ -1,3 +1,4 @@
+
 import streamlit as st
 import json
 import os
@@ -21,10 +22,6 @@ def load_data():
             st.error(f"Lỗi đọc file: {e}")
     return []
 # ------------------------------
-import streamlit as st
-import json
-import os
-import random
 
 # Tự động xác định file dữ liệu
 FILE_NAME_GR = "ngu_phap.json"
