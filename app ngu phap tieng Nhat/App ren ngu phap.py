@@ -22,7 +22,9 @@ def load_data():
             st.error(f"Lỗi đọc file: {e}")
     return []
 # ------------------------------
-
+# Lấy đường dẫn tuyệt đối đến file JSON nằm cùng thư mục với code
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+FILE_NAME_GR = os.path.join(BASE_DIR, "ngu_phap.json") # Đảm bảo tên này đúng 100% với trên GitHub
 # Tự động xác định file dữ liệu
 FILE_NAME_GR = "ngu_phap.json"
 
