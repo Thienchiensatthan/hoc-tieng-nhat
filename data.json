@@ -1,0 +1,17 @@
+[
+    {
+        "grammar_name": "Động từ , tính từ đuôi い , tính từ đuôi な、danh từ (bỏ だ) +か、～",
+        "sentences": [
+            {
+                "vi": "chúng ta gặp nhau lần đầu tiên khi nào, anh/chị có còn nhớ không?",
+                "hira": "わたしたちがはじめてあったのはいつか、おぼえていますか",
+                "kanji": "私たちが初めて会ったのはいつか、覚えていますか"
+            },
+            {
+                "vi": "Chuyến bay JL107 đến lúc mấy giờ , anh/chị hãy kiểm tra xem",
+                "hira": "JL107びんはなんじにとうちゃくするか、はなしています",
+                "kanji": "JL107便は何時に到着するか、しらべてください"
+            }
+        ]
+    }
+]
