@@ -11,6 +11,51 @@
                 "vi": "Chuyến bay JL107 đến lúc mấy giờ , anh/chị hãy kiểm tra xem",
                 "hira": "JL107びんはなんじにとうちゃくするか、はなしています",
                 "kanji": "JL107便は何時に到着するか、しらべてください"
+            },
+            {
+                "vi": "Tôi quên mất tiêu là mình đã để điện thoại ở đâu rồi",
+                "hira": "どこにすまほをおいたか、わすれてしまいました。",
+                "kanji": "どこにスマホを置いたか、忘れてしまいました"
+            },
+            {
+                "vi": "Hãy nói cho tôi biết món ăn nào là ngon nhất.",
+                "hira": "どのりょうりがいちばんおいしいか、おしえてください",
+                "kanji": "どの料理が一番おいしいか、教えてください"
+            },
+            {
+                "vi": "Ông có biết cô ấy thích cái gì không? (Tán gái là phải biết câu này nhé bro!)",
+                "hira": "かのじょがなにがすきか、しっていますか",
+                "kanji": "彼女が何が好きか、知っていますか"
+            },
+            {
+                "vi": "Tôi không biết mấy giờ thì cuộc họp kết thúc.",
+                "hira": "かいぎはなんじにおわるか、わかりません",
+                "kanji": "会議は何時に終わるか、わかりません"
+            },
+            {
+                "vi": "Tôi đang điều tra xem ai là người đã làm vỡ cái cửa sổ đó",
+                "hira": "だれがそのまどをわったか、しらべています",
+                "kanji": "誰がその窓を割ったか、調べています"
+            },
+            {
+                "vi": "Hãy xác nhận xem thời tiết ngày mai có tốt không.",
+                "hira": "あしたのてんきはいいか、かくにんしてください",
+                "kanji": "明日の天気はいいか、確認してください"
+            },
+            {
+                "vi": "Hãy cùng xem thử trong cái hộp này có cái gì nào",
+                "hira": "このはこのなかになにがあるか、みてみましょう",
+                "kanji": "この箱の中に何があるか、見てみましょう"
+            },
+            {
+                "vi": "Tôi sẽ thử hỏi xem anh ấy có phải là giáo viên người Nhật không",
+                "hira": "かれはにほんじんのせんせいか、きいてみます",
+                "kanji": "彼は日本人の先生か、聞いてみます"
+            },
+            {
+                "vi": "Anh ấy đã không nói lý do tại sao mình lại đến muộn",
+                "hira": "どうしてかれがおくれたか、りゆうをいいませんでした",
+                "kanji": "どうして彼が遅れたか、理由を言いませんでした"
             }
         ]
     }
