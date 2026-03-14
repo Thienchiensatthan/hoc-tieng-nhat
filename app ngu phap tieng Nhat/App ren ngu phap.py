@@ -3,6 +3,29 @@ import json
 import os
 import random
 
+# --- ĐOẠN FIX LỖI ĐƯỜNG DẪN ---
+# Lấy thư mục hiện tại của chính cái file Python này
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+# Nối nó với tên file JSON của ông (Đảm bảo tên file này giống hệt trên GitHub)
+FILE_NAME_GR = os.path.join(BASE_DIR, "ngu_phap.json")
+
+def load_data():
+    if os.path.exists(FILE_NAME_GR):
+        try:
+            with open(FILE_NAME_GR, "r", encoding="utf-8") as f:
+                content = f.read().strip()
+                if content:
+                    return json.loads(content)
+        except Exception as e:
+            st.error(f"Lỗi đọc file: {e}")
+    return []
+# ------------------------------
+import streamlit as st
+import json
+import os
+import random
+
 # Tự động xác định file dữ liệu
 FILE_NAME_GR = "ngu_phap.json"
 
